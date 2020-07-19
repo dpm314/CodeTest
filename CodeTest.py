@@ -19,11 +19,7 @@
 # // Do not use "eval" or 3rd party libraries.
 # // There is no timer, but this should take around 60 minutes to get a working // solution. Do not spend more than two hours. Good luck!
 # //
-#
-# 
-# MarkedForged Coding Challenge
-#By: David Meichle
-#Effective time elapsed ~2.5 Hours
+
 
 import re
 operations = ['/', '*', '+', '-'] # in order of precedence
